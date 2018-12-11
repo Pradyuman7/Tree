@@ -27,7 +27,7 @@ Binary trees are special trees which only have two or less children each node an
 Unbalanced trees are those trees in which most of the data is found on one particular side of the whole tree, either left or right.
 
 
-**More Infor about Trees**
+**More Info about Trees**
 
 So Binary Trees are those trees which have only two child nodes for any parent node.
 
@@ -50,3 +50,6 @@ There is also a Breadth First Traversal, which travereses the tree along its wid
 Typically in Binary Search Trees (Balanced) we do In-order Traversal, as this mostly is the ascending order of values in the nodes
 	
 Recursion is everything for all operations on Trees, so be prepared to see Recursion in almost all the steps.
+
+***
+New additions will be on roll, for making this library usable in production code and not just for learning :)
