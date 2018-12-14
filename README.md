@@ -41,8 +41,11 @@ Unbalanced Tree is the one with elements with higher value all being inclined to
 Balanced Tree is the one with everything balanced and so good for us to use in terms of performance
 	
 There are three major types of (Height First) Traversal in a Balanced tree, which are:
+
 	1. In-order Traversal: left then root then right
+	
 	2. Pre-order Traversal: root then left then right
+	
 	3. Post-order Traversal: left then right then root
 	
 There is also a Breadth First Traversal, which travereses the tree along its width
